@@ -15,8 +15,18 @@
    - 「計算実行」ボタンをクリックすると、工程能力指数が計算されます。
    - 同時に、ヒストグラムやQQプロットが表示されます。
 
+### sample.xlsxから算出されたヒストグラム
+![histogram](https://github.com/kotaooka/-/assets/115392256/c781d2fd-7b60-4675-9297-a5b20be49ab2)
+
+### sample.xlsxから算出されたQQプロット
+![QQplot](https://github.com/kotaooka/-/assets/115392256/554f4180-bbb5-4eb2-b738-e11b91be5ace)
+
 4. **計算結果の保存**:
    - 計算結果は、デスクトップに「計算日時_results.xlsx」という名前で保存されます。
+
+### sample.xlsxから算出された計算結果
+![image](https://github.com/kotaooka/-/assets/115392256/e2cc8439-ffac-4ca6-9939-d3bc96589295)
+
 
 ### 注意事項
 - Excelファイルのデータは、最初の列から取り込まれます。
@@ -29,3 +39,5 @@
 - matplotlib
 - tkinter
 - openpyxl
+
+
