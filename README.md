@@ -4,6 +4,8 @@
 
 ### 使用方法
 
+![image](https://github.com/kotaooka/CpkTools/assets/115392256/632ac7b4-22cb-4a21-8379-2de238a0eaa4)
+
 1. **Excelファイルの選択**:
    - 「Excelファイルのパス」欄にあるテキストボックスをクリックし、Excelファイルを選択します。
    - 「Excelファイルを選択」ボタンをクリックすることでも、ファイルを選択できます。
